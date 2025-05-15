@@ -10,5 +10,5 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Persönliche Daten
-data/audio/
-data/transcripts/
+interview-ai/data/audio/
+interview-ai/data/transcripts/
