@@ -1,0 +1,14 @@
+# Python-Umgebung ignorieren
+venv/
+.venv/
+
+# Bytecode-Dateien
+__pycache__/
+*.pyc
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Persönliche Daten
+data/audio/
+data/transcripts/
